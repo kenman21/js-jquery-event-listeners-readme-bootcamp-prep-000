@@ -9,7 +9,7 @@ function getIt() {
 
 function frameIt() {
   $(document)'load',function(){
-    $('img').append()
+    $('img').addClass("tasty")
   }
 }
 
