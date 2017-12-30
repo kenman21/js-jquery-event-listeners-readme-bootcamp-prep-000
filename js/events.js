@@ -20,7 +20,9 @@ function submitIt() {
 }
 
 function pressIt() {
-  $('input')
+  $('input').on('keydown', function(e) {
+    if (e.which == )
+  })
 }
 
 $(document).ready(function(){
