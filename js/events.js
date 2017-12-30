@@ -21,7 +21,8 @@ function submitIt() {
 
 function pressIt() {
   $('input').on('keydown', function(e) {
-    if (e.which == )
+    if (e.which == 71) {
+      
   })
 }
 
