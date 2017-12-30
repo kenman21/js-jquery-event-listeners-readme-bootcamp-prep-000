@@ -8,7 +8,9 @@ function getIt() {
 }
 
 function frameIt() {
-  $('img').on('load',
+  $(document)'load',function(){
+    $('img').append()
+  }
 }
 
 $(document).ready(function(){
