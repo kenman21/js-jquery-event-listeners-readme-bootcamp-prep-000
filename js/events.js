@@ -7,3 +7,4 @@ function getIt() {
     return alert('Hey!')
 });
 }
+})
